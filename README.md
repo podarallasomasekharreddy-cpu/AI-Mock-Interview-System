@@ -6,7 +6,7 @@ Hi, I'm Soma Sekhar Reddy
 ---
 
 Skills
-- C,python JavaScript  
+- C,python,JavaScript  
 - MySQL  
 - HTML, CSS  
 
